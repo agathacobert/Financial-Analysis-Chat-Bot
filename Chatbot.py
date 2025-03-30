@@ -118,14 +118,4 @@ class ChatBot:
 # Create an instance of the ChatBot with a specified CSV file path
 bot = ChatBot("/Users/agathasantos/data.csv")
 bot.start()
-
-
-# Examples of questions that the chatbot can answer: 
-
-# 1. What was Apple's total revenue in 2022?
-# 2. What is Microsoft's net income for 2023?
-# 3. What is the cash flow from operating activities for Microsoft in 2022?
-# 4. How did Microsoft's revenue change from 2023 to 2024?
-# 5. What is the year-over-year change in Apple's net income for 2022 to 2023?
-# 6. Tesla, Total Assets, 2024
   
