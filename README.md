@@ -51,9 +51,12 @@ The chatbot application, implemented in "ChatBot.py", provides a user-friendly w
 
 4.  **Ask questions in natural language:**
 
-    -   Example: "What was Apple's total revenue in 2022?"
-    -   Example: "How did Microsoft's net income change from 2023 to 2024?"
-    -   Example: "Tesla, Total Assets, 2024"
+- What was Apple's total revenue in 2022?
+- What is Microsoft's net income for 2023?
+- What is the cash flow from operating activities for Microsoft in 2022?
+- How did Microsoft's revenue change from 2023 to 2024?
+- What is the year-over-year change in Apple's net income for 2022 to 2023?
+- Tesla, Total Assets, 2024
 
 ## Requirements
 
